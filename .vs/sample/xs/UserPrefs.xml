@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{2E2DE59B-330F-4E53-B6B1-D3D3AE206B0E}|Default">
+  <MonoDevelop.Ide.ItemProperties.sample PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="sample/Tests/02.VerifySearchResults.cs">
+    <Files>
+      <File FileName="sample/Tests/03.VerifySearchHistory.cs" Line="68" Column="10" />
+      <File FileName="sample/Tests/02.VerifySearchResults.cs" Line="19" Column="88" />
+      <File FileName="sample/Keywords/Keywords.cs" Line="15" Column="84" />
+      <File FileName="sample/TestData/TestData.cs" Line="12" Column="2" />
+      <File FileName="sample/Tests/01.VerifyPopularSearches.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="sample" expanded="True">
+            <Node name="sample" expanded="True" selected="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Keywords" expanded="True" />
+              <Node name="TestData" expanded="True" />
+              <Node name="Tests" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="sample" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
