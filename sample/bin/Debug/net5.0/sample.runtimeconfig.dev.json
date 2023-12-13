@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "/Users/neha/.dotnet/store/|arch|/|tfm|",
-      "/Users/neha/.nuget/packages"
-    ]
-  }
-}
